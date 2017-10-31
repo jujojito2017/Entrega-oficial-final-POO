@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: a1641a06b39299c4ca61fd9536f2b4db
+timeCreated: 1505865947
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: agua
+    100002: C_rculo
+    100004: cerca
+    100006: grama_1
+    100008: grama_1_001
+    100010: grama_1_002
+    100012: grama_2
+    100014: grama_2_001
+    100016: Hojas_a
+    100018: Hojas_b
+    100020: Hojas_c
+    100022: Plano
+    100024: Plano_001
+    100026: Plano_002
+    100028: Plano_003
+    100030: //RootNode
+    100032: puente
+    100034: ramas_tronco_muerto
+    100036: Rocas
+    100038: Rocas_001
+    100040: Rocas_002
+    100042: Terreno_b
+    100044: Terreno_b_001
+    100046: Terreno_b_002
+    100048: Terreno_b_003
+    100050: Troco_Muerto
+    100052: Tronco_a
+    100054: Tronco_b
+    100056: Tronco_c
+    400000: agua
+    400002: C_rculo
+    400004: cerca
+    400006: grama_1
+    400008: grama_1_001
+    400010: grama_1_002
+    400012: grama_2
+    400014: grama_2_001
+    400016: Hojas_a
+    400018: Hojas_b
+    400020: Hojas_c
+    400022: Plano
+    400024: Plano_001
+    400026: Plano_002
+    400028: Plano_003
+    400030: //RootNode
+    400032: puente
+    400034: ramas_tronco_muerto
+    400036: Rocas
+    400038: Rocas_001
+    400040: Rocas_002
+    400042: Terreno_b
+    400044: Terreno_b_001
+    400046: Terreno_b_002
+    400048: Terreno_b_003
+    400050: Troco_Muerto
+    400052: Tronco_a
+    400054: Tronco_b
+    400056: Tronco_c
+    2300000: agua
+    2300002: C_rculo
+    2300004: cerca
+    2300006: grama_1
+    2300008: grama_1_001
+    2300010: grama_1_002
+    2300012: grama_2
+    2300014: grama_2_001
+    2300016: Hojas_a
+    2300018: Hojas_b
+    2300020: Hojas_c
+    2300022: Plano
+    2300024: Plano_001
+    2300026: Plano_002
+    2300028: Plano_003
+    2300030: puente
+    2300032: ramas_tronco_muerto
+    2300034: Rocas
+    2300036: Rocas_001
+    2300038: Rocas_002
+    2300040: Terreno_b
+    2300042: Terreno_b_001
+    2300044: Terreno_b_002
+    2300046: Terreno_b_003
+    2300048: Troco_Muerto
+    2300050: Tronco_a
+    2300052: Tronco_b
+    2300054: Tronco_c
+    3300000: agua
+    3300002: C_rculo
+    3300004: cerca
+    3300006: grama_1
+    3300008: grama_1_001
+    3300010: grama_1_002
+    3300012: grama_2
+    3300014: grama_2_001
+    3300016: Hojas_a
+    3300018: Hojas_b
+    3300020: Hojas_c
+    3300022: Plano
+    3300024: Plano_001
+    3300026: Plano_002
+    3300028: Plano_003
+    3300030: puente
+    3300032: ramas_tronco_muerto
+    3300034: Rocas
+    3300036: Rocas_001
+    3300038: Rocas_002
+    3300040: Terreno_b
+    3300042: Terreno_b_001
+    3300044: Terreno_b_002
+    3300046: Terreno_b_003
+    3300048: Troco_Muerto
+    3300050: Tronco_a
+    3300052: Tronco_b
+    3300054: Tronco_c
+    4300000: Plano_003
+    4300002: puente
+    4300004: Rocas_002
+    4300006: grama_2_001
+    4300008: grama_1_002
+    4300010: agua
+    4300012: Plano_002
+    4300014: cerca
+    4300016: grama_1_001
+    4300018: grama_2
+    4300020: grama_1
+    4300022: C_rculo
+    4300024: Plano_001
+    4300026: Plano
+    4300028: Hojas_c
+    4300030: Tronco_c
+    4300032: Terreno_b_003
+    4300034: Rocas_001
+    4300036: Terreno_b_002
+    4300038: ramas_tronco_muerto
+    4300040: Terreno_b_001
+    4300042: Troco_Muerto
+    4300044: Hojas_b
+    4300046: Rocas
+    4300048: Terreno_b
+    4300050: Tronco_b
+    4300052: Hojas_a
+    4300054: Tronco_a
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
